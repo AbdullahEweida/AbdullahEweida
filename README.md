@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Eweida  
 
-💻 Passionate about **AI & Data Scince** and building efficient solutions.  
+💻 Passionate about **Data Structures & Algorithms** and exploring **AI & Data Science**.  
 🌱 Currently learning: Advanced C# and System Design.  
 📚 Interested in: AI, Data Science, Problem Solving, Competitive Programming, and Clean Architecture.  
 ⚡ Fun fact: I love turning complex problems into simple solutions.
@@ -31,3 +31,11 @@
 - Problem Solving & Traversal Algorithms
 - Clean Coding Practices
 - Software Design Fundamentals
+
+---
+
+## ✨ Current Goals
+- Master advanced **Data Structures & Algorithms** in C#  
+- Build hands-on projects in **AI & Data Science**  
+- Explore **Machine Learning frameworks** (TensorFlow, PyTorch)  
+- Contribute to **open-source projects**  
