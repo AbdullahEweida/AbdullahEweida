@@ -40,6 +40,6 @@
 
 ## ✨ Current Goals
 - Master advanced **Data Structures & Algorithms** in C#  
-- Build hands-on projects in **AI & Data Science**  
-- Explore **Machine Learning frameworks** (TensorFlow, PyTorch)  
+- Build hands-on projects in **Backend using ASP.NET Core API or MVC**  
+- Explore **Software Architecture, SDLC**  
 - Contribute to **open-source projects**  
